@@ -1,11 +1,11 @@
-📢 Nominate ([@Puliczek](https://github.com/puliczek/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
+📢 Nominate ([@Healer995](https://github.com/healer995/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Maciej.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Markas.
 
 
-I am 🧙 Software Engineer and 👾 Security Researcher ( 🏆 8 x Listed in Google's Hall of Fame (TOP-100) )
+I am 🧙 Senior Software Engineer and 👾 Process Manager ( 🏆 8 x Listed in Google's Hall of Fame (TOP-100) )
 
 Welcome to my page; on my Github, you can find:
 - Projects created by me 
@@ -36,7 +36,7 @@ Welcome to my page; on my Github, you can find:
 
 
 --- 
-#### I am 🧙 Software Engineer on full-time.
+#### I am 🧙 Senior Software Engineer on full-time.
 
 
 In my view, the best approach is to pick the tech that's just right for the problem.
@@ -50,14 +50,14 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 ![Next-js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)
+![Next](https://img.shields.io/badge/next-%230072C6.svg?style=flat-square&logo=next-devops&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![DBM](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
