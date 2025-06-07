@@ -71,9 +71,6 @@ I'm He@ler995, a passionate Senior Full Stack Developer.
 <!--- [Twitter](Your Twitter Profile Link)
 - [Personal Website/Blog](Your Website or Blog Link)-->
 ## GitHub Stats
-[![My GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=vigneshwaranbalamurugan&show_icons=true&count_private=true&theme=radical)](https://github.com/vigneshwaranbalamurugan)
-<br>
-<br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vigneshwaranbalamurugan&theme=dark&background=0d1117&border=00ff00&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&currStreakNum=00ff00&sideNums=ffffff&sideLabels=ffffff&dates=00ff00)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaranbalamurugan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
