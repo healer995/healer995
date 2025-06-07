@@ -71,8 +71,6 @@ I'm He@ler995, a passionate Senior Full Stack Developer.
 <!--- [Twitter](Your Twitter Profile Link)
 - [Personal Website/Blog](Your Website or Blog Link)-->
 ## GitHub Stats
-[![My GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=vigneshwaranbalamurugan&show_icons=true&count_private=true&theme=radical)](https://github.com/vigneshwaranbalamurugan)
-<br>
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vigneshwaranbalamurugan&theme=dark&background=0d1117&border=00ff00&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&currStreakNum=00ff00&sideNums=ffffff&sideLabels=ffffff&dates=00ff00)
 <br>
@@ -154,5 +152,5 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
 </p>
