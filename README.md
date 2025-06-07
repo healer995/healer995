@@ -109,10 +109,6 @@ My BSc Thesis in computer science was about "**Building remote administration to
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
-</p>
-
 <!--Feel free to fork and customize this template for your own GitHub profile. Happy coding!-->
 
 
@@ -156,3 +152,7 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
+</p>
