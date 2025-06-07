@@ -77,14 +77,6 @@ I'm He@ler995, a passionate Senior Full Stack Developer.
 ## GitHub Trophies
 ![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vigneshwaranbalamurugan&theme=radical&no-frame=true&no-bg=true&margin-w=1)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<dr>
-
 ---
 
 ####  I am 👾 Security Researcher and 🔏 Bug bounty hunter in free time.
