@@ -4,16 +4,6 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is healer995.
 
-
-I am 🧙 Senior Software Engineer 👾 ( 🏆 8 x Listed in Google's Hall of Fame (TOP-100) )
-
-Welcome to my page; on my Github, you can find:
-- Projects created by me 
-- Security writeups and CVE reported by me
-- Tutorials around security and programming
-
-*I am open to new opportunities.*
-
 <!-- Portfolio Showcase Container -->
 <div align="center">
   
@@ -58,7 +48,6 @@ I'm He@ler995, a passionate Senior Full Stack Developer.
 
 ![My Skills](https://skillicons.dev/icons?i=react)
 
-
 <h3 align="left">Devops</h3>
 
 ![My Skills](https://skillicons.dev/icons?i=docker,jenkins,kubernetes,jira,scrum,agile)
@@ -66,7 +55,6 @@ I'm He@ler995, a passionate Senior Full Stack Developer.
 <h3 align="left">Design</h3>
 
 ![My Skills](https://skillicons.dev/icons?i=webflow,figma)
-
 
 <h3 align="left">Cloud Deployment</h3>
 
@@ -91,8 +79,6 @@ I'm He@ler995, a passionate Senior Full Stack Developer.
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaranbalamurugan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Leetcode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/vigneshwaranbalamurugan?theme=dark&font=Marcellus&ext=heatmap)
 
 ## GitHub Trophies
 ![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vigneshwaranbalamurugan&theme=radical&no-frame=true&no-bg=true&margin-w=1)
@@ -101,7 +87,6 @@ I'm He@ler995, a passionate Senior Full Stack Developer.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <dr>
-
 
 ---
 
