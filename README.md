@@ -46,29 +46,19 @@ Welcome to my page; on my Github, you can find:
 
 ## Welcome to My Profile! 👋 
 
-I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering College.
+I'm He@ler995, a passionate Senior Full Stack Developer.
 
 
 ## About Me
-- 🎓 B.E, Computer Science Engineering at Kongu Engineering College, India
-- 🌱 I’m currently working on <b>Spring Boot Framework</b>
-- 🔭 I’m currently learning <b>Devops & AWS</b>
-- 💬 Ask me about <b>Data Structures,Web Development,Cyber Security</b>
+- 🎓 B.E, Computer Science Engineering
+- 🌱 My top skills are <b>MERN, .NET, JAVA, PYTHON</b>
+- 🔭 I’m currently learning <b>New Things</b>
+- 💬 Ask me about <b>Full Stack Web Development,Cyber Security</b>
 - 😄 Pronouns: He,Him.
-- 📄 Check it out **[My Resume](https://drive.google.com/file/d/1TZs9QhndHMVYy9iH5gKMrW74Tp18KCxI/view?usp=drive_link)** 
-- 📫 How to reach me: **vigneshsobalamurugan2005@gmail.com**
+- 📫 How to reach me: **markasmai995@gmail.com**
 <!--- 👯 I’m looking to collaborate on [Open Source Projects or Areas of Interest].
 - 🤔 I’m looking for help with [Something you need help with].-->
 ⚡ Fun fact: I dabble in 🎬 Video editing
-.
-
-## Connect with Me 
-  
-[![Email](https://img.shields.io/badge/Email-Me-informational?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:vigneshwaranb.22cse@kongu.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshwaran30/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/22CSR235)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/vigneshwaranbalamurugan/)
-
 
 ## Tech Stack
 
@@ -82,11 +72,11 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 <h3 align="left">Framework & Libraries</h3>
 
-![My Skills](https://skillicons.dev/icons?i=react,spring,django,flask)
+![My Skills](https://skillicons.dev/icons?i=react,.net,spring,django,flask)
 
 <h3 align="left">Database</h3>
 
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
+![My Skills](https://skillicons.dev/icons?i=mysql,MongoDB,PostgreSQL,firebase)
 
 <h3 align="left">App Development</h3>
 
@@ -95,7 +85,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 <h3 align="left">Devops</h3>
 
-![My Skills](https://skillicons.dev/icons?i=docker,jenkins,kubernetes)
+![My Skills](https://skillicons.dev/icons?i=docker,jenkins,kubernetes,jira,scrum,agile)
 
 <h3 align="left">Design</h3>
 
@@ -143,7 +133,7 @@ I'm Vigneshwaran, a passionate Computer Science Engineer from Kongu Engineering 
 
 
 --- 
-#### I am 🧙 Senior Software Engineer on full-time.
+#### I am 🧙 Senior Full Stack Engineer on full-time.
 
 
 In my view, the best approach is to pick the tech that's just right for the problem.
@@ -155,8 +145,9 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Next-js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Next](https://img.shields.io/badge/next-%230072C6.svg?style=flat-square&logo=next-devops&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
@@ -171,7 +162,6 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 #### Technology that I am using but just less
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=flat-square&logo=Clojure&logoColor=Clojure)
