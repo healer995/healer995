@@ -65,7 +65,7 @@ I'm He@ler995, a passionate Senior Full Stack Developer.
 
 <h3 align="left">Design</h3>
 
-![My Skills](https://skillicons.dev/icons?i=webflow,figma) <img src="https://oregoncoast.edu/wp-content/uploads/2024/02/canva-logo.png" alt="canva" width="50" height="50" >
+![My Skills](https://skillicons.dev/icons?i=webflow,figma)
 
 
 <h3 align="left">Cloud Deployment</h3>
@@ -92,6 +92,7 @@ I'm He@ler995, a passionate Senior Full Stack Developer.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaranbalamurugan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <dr>
 ![GITHUB Stats](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<br>
 ![GITHUB Stats](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <dr>
