@@ -35,7 +35,7 @@ Welcome to my page; on my Github, you can find:
 
 I'm He@ler995, a passionate Senior Full Stack Developer.
 
-
+</div>
 ## About Me
 - 🎓 B.E, Computer Science Engineering
 - 🌱 My top skills are <b>MERN, .NET, JAVA, PYTHON</b>
@@ -59,11 +59,11 @@ I'm He@ler995, a passionate Senior Full Stack Developer.
 
 <h3 align="left">Framework & Libraries</h3>
 
-![My Skills](https://skillicons.dev/icons?i=react,.net,spring,django,flask)
+![My Skills](https://skillicons.dev/icons?i=react,net,spring,django,flask)
 
 <h3 align="left">Database</h3>
 
-![My Skills](https://skillicons.dev/icons?i=mysql,MongoDB,PostgreSQL,firebase)
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase)
 
 <h3 align="left">App Development</h3>
 
@@ -101,6 +101,22 @@ I'm He@ler995, a passionate Senior Full Stack Developer.
 <br>
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaranbalamurugan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+---
+
+####  I am 👾 Security Researcher and 🔏 Bug bounty hunter in free time.
+Discovered and reported several vulnerabilities in projects like **Google Chrome, Microsoft Edge, or Opera**.
+
+Got 🏆 Listed in TOP-100 **Google's Hall of Fame** (Bug Bounty Hunters).
+
+My BSc Thesis in computer science was about "**Building remote administration tools (RAT)** in Java and theory of botnets" - An application to control thousands of computers in a hidden way from a remote location.
+
+#### ⚔️ List of CVE reported by me:
+[CVE-2022-0337](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera), [CVE-2021-21123](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21129](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21130](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21131](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21172](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21141](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome)
+
+![](https://hit.yhype.me/github/profile?user_id=12344862)
 
 ## Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vigneshwaranbalamurugan?theme=dark&font=Marcellus&ext=heatmap)
@@ -159,17 +175,3 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-####  I am 👾 Security Researcher and 🔏 Bug bounty hunter in free time.
-Discovered and reported several vulnerabilities in projects like **Google Chrome, Microsoft Edge, or Opera**.
-
-Got 🏆 Listed in TOP-100 **Google's Hall of Fame** (Bug Bounty Hunters).
-
-My BSc Thesis in computer science was about "**Building remote administration tools (RAT)** in Java and theory of botnets" - An application to control thousands of computers in a hidden way from a remote location.
-
-#### ⚔️ List of CVE reported by me:
-[CVE-2022-0337](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera), [CVE-2021-21123](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21129](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21130](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21131](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21172](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome), [CVE-2021-21141](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome)
-
-![](https://hit.yhype.me/github/profile?user_id=12344862)
