@@ -5,7 +5,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is healer995.
 
 
-I am 🧙 Senior Software Engineer and 👾 Process Manager ( 🏆 8 x Listed in Google's Hall of Fame (TOP-100) )
+I am 🧙 Senior Software Engineer 👾 ( 🏆 8 x Listed in Google's Hall of Fame (TOP-100) )
 
 Welcome to my page; on my Github, you can find:
 - Projects created by me 
@@ -28,22 +28,9 @@ Welcome to my page; on my Github, you can find:
 <!-- Portfolio Showcase Container -->
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vigneshwaran!;Full-Stack+Web+Developer;Tech+Explorer;Cybersecurity+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+He@ler!;Full-Stack+Web+Developer;Tech+Explorer;Cybersecurity+Enthusiast;" alt="Typing SVG" />
 
   <br />
-  <img src="https://img.shields.io/badge/Portfolio-00ADB5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio-badge"/>
-  <br />
-  <a href="https://vigneshwaran.tech" target="_blank">
-    🚀 <b>Explore My Portfolio</b> 🌐
-  </a>
-
-<br>
-
-</div>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vigneshwaranbalamurugan&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshwaran" /> </p>
-
-
 ## Welcome to My Profile! 👋 
 
 I'm He@ler995, a passionate Senior Full Stack Developer.
