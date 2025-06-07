@@ -117,9 +117,6 @@ My BSc Thesis in computer science was about "**Building remote administration to
 
 ![](https://hit.yhype.me/github/profile?user_id=12344862)
 
-## Leetcode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/vigneshwaranbalamurugan?theme=dark&font=Marcellus&ext=heatmap)
-
 ## GitHub Trophies
 ![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vigneshwaranbalamurugan&theme=radical&no-frame=true&no-bg=true&margin-w=1)
 
