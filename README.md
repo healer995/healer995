@@ -75,8 +75,6 @@ I'm He@ler995, a passionate Senior Full Stack Developer.
 <br>
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vigneshwaranbalamurugan&theme=dark&background=0d1117&border=00ff00&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&currStreakNum=00ff00&sideNums=ffffff&sideLabels=ffffff&dates=00ff00)
-<br>
-<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaranbalamurugan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## GitHub Trophies
