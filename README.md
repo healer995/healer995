@@ -14,17 +14,6 @@ Welcome to my page; on my Github, you can find:
 
 *I am open to new opportunities.*
 
-#### 📜 Github stats:
-
-![GITHUB Stats](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GITHUB Stats](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-<h1 align="center">
-  <img src="https://github.com/vigneshwaranbalamurugan/vigneshwaranbalamurugan/blob/c1b6634e079ea6d466c6a7ba85b6591fe110db7e/Info.png" alt="Vigneshwaran" style="border-radius: 10px; border: 2px solid #000;"  />
-</h1>
-
-
-
 <!-- Portfolio Showcase Container -->
 <div align="center">
   
@@ -101,7 +90,11 @@ I'm He@ler995, a passionate Senior Full Stack Developer.
 <br>
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwaranbalamurugan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<dr>
+![GITHUB Stats](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+<dr>
 
 
 ---
