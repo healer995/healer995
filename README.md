@@ -2,7 +2,7 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is healer995.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is David Wang.
 
 <!-- Portfolio Showcase Container -->
 <div align="center">
@@ -12,16 +12,16 @@
   <br />
 ## Welcome to My Profile! 👋 
 
-I'm He@ler995, a passionate Senior Full Stack Developer.
+I'm David Wang, a passionate Senior Full Stack Developer from Singapore.
 
 </div>
 ## About Me
 - 🎓 B.E, Computer Science Engineering
 - 🌱 My top skills are <b>MERN, .NET, JAVA, PYTHON</b>
 - 🔭 I’m currently learning <b>New Things</b>
-- 💬 Ask me about <b>Full Stack Web Development,Cyber Security</b>
+- 💬 Ask me about <b>Full Stack Web Development,AI-Automation</b>
 - 😄 Pronouns: He,Him.
-- 📫 How to reach me: **markasmai995@gmail.com**
+- 📫 How to reach me: **dm85.pro@gmail.com**
 <!--- 👯 I’m looking to collaborate on [Open Source Projects or Areas of Interest].
 - 🤔 I’m looking for help with [Something you need help with].-->
 ⚡ Fun fact: I dabble in 🎬 Video editing
@@ -96,7 +96,7 @@ My BSc Thesis in computer science was about "**Building remote administration to
 
 
 --- 
-#### I am 🧙 Senior Full Stack Engineer on full-time.
+#### I am 🧙 Senior AI-Full Stack Engineer on full-time.
 
 
 In my view, the best approach is to pick the tech that's just right for the problem.
